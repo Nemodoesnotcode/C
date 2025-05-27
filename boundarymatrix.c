@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//this program prints only the boundary line of matrix
 int main(){
 	int m,n;
 	printf("m: ");
